@@ -1,0 +1,2 @@
+module RmpRemindersHelper
+end

@@ -1,0 +1,14 @@
+en:
+  field_reminders_plural: "Reminders"
+  field_periodic: "Periodic"
+  field_interval_value: "Interval value"
+  field_interval_type: "Interval type"
+
+  reminder_created: "Reminder created"
+
+  label_add_reminder: "Add reminder"
+
+  permission_view_issue_reminders: "View issues reminders"
+  permission_add_issue_reminder: "Add issue reminder"
+  permission_edit_issue_reminder: "Edit issue reminder"
+  permission_delete_issue_reminder: "Delete issue reminder"

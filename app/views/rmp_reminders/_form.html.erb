@@ -1,0 +1,15 @@
+<%= labelled_form_for reminder, :url => { :action => next_step, :id=>reminder } do |f| %>
+    <div class="box tabular">
+      <%= error_messages_for 'reminder' %>
+      <%= f.hidden_field :id %>
+      <p>
+        <%= f.text_field :start_date, :required => true %>
+        <%= calendar_for('rmp_reminder_start_date') %>
+      </p>
+      <p><%= f.check_box :periodic %></p>
+      <p><%= f.number_field :interval_value, :size => 4, :maxlength => 4 %></p>
+      <p><%= f.select :interval_type, @interval_types, :include_blank => true %></p>
+    </div>
+    <%= f.submit %>
+    <%= link_to l(:button_cancel), :back %>
+<% end %>

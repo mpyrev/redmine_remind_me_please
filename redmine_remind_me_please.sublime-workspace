@@ -1,0 +1,2042 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"coun",
+				"countrySelect"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"qu",
+				"query_esc"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"rg",
+				"rgba()"
+			],
+			[
+				"request",
+				"request_id"
+			],
+			[
+				"reque",
+				"request_id"
+			],
+			[
+				"requ",
+				"request_id"
+			],
+			[
+				"item",
+				"items_on_page"
+			],
+			[
+				"tuf",
+				"turfirm_id"
+			],
+			[
+				"srequests",
+				"srequests_turfirm"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"turfirm",
+				"turfirm_id"
+			],
+			[
+				"isn",
+				"is_null"
+			],
+			[
+				"arr",
+				"array"
+			],
+			[
+				"if",
+				"if	if"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"a",
+				"agent"
+			],
+			[
+				"tur",
+				"turcount"
+			],
+			[
+				"tour",
+				"turcount_country"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"Mem",
+				"MemcachedArray"
+			],
+			[
+				"sap",
+				"sape-links"
+			],
+			[
+				"error",
+				"error_log"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"invoi",
+				"invoice_id"
+			],
+			[
+				"pay",
+				"paymentAviso"
+			],
+			[
+				"mod",
+				"module_name"
+			],
+			[
+				"yandex",
+				"yandex_payment_fail"
+			],
+			[
+				"yan",
+				"yandex_url"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"DB",
+				"DB_AUTOQUERY_UPDATE"
+			],
+			[
+				"in",
+				"invoice"
+			],
+			[
+				"else",
+				"elseif	elseif …"
+			],
+			[
+				"invo",
+				"invoiceId"
+			],
+			[
+				"fir",
+				"first_date"
+			],
+			[
+				"se",
+				"second_eur"
+			],
+			[
+				"fi",
+				"first_usd"
+			],
+			[
+				"first",
+				"first_eur"
+			],
+			[
+				"sec",
+				"second_eur"
+			],
+			[
+				"us",
+				"usd_yesterday"
+			],
+			[
+				"usd_",
+				"usd_today"
+			],
+			[
+				"xm",
+				"xml_url"
+			],
+			[
+				"time",
+				"timestamp"
+			],
+			[
+				"get",
+				"getcookie"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"_resort",
+				"_resort_advertiser"
+			],
+			[
+				"object",
+				"object_list"
+			],
+			[
+				"Local",
+				"LocalTourPublicListView"
+			],
+			[
+				"price",
+				"price_rub"
+			],
+			[
+				"pric",
+				"price_rub"
+			],
+			[
+				"depart",
+				"departure_date"
+			],
+			[
+				"depa",
+				"departure_date__gte"
+			],
+			[
+				"nights",
+				"nights__gte"
+			],
+			[
+				"min",
+				"min_price"
+			],
+			[
+				"depar",
+				"departure_date"
+			],
+			[
+				"render",
+				"render_to_response"
+			],
+			[
+				"max",
+				"max_price"
+			],
+			[
+				"context",
+				"context_marker"
+			],
+			[
+				"LocalTour",
+				"LocalTourOrder"
+			],
+			[
+				"TourORder",
+				"TourOrderDetailView"
+			],
+			[
+				"Tour",
+				"TourOrder"
+			],
+			[
+				"can_see_all",
+				"can_see_all_tours"
+			],
+			[
+				"tours_tour",
+				"tours_tourorder"
+			],
+			[
+				"local_tour",
+				"local_tour_model_id"
+			],
+			[
+				"RES",
+				"REST_TYPE_CHOICES	(global, instance)"
+			],
+			[
+				"view",
+				"views  (module)"
+			],
+			[
+				"order",
+				"order_by"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"no",
+				"no-repeat  (value)"
+			],
+			[
+				"firm",
+				"firm_search"
+			],
+			[
+				"closed",
+				"closed_by"
+			],
+			[
+				"old",
+				"old_object	(local, instance)"
+			],
+			[
+				"new",
+				"new_object	(local, instance)"
+			],
+			[
+				"al",
+				"alpha2"
+			],
+			[
+				"set",
+				"setattr	(builtin, function)"
+			],
+			[
+				"font",
+				"font-size:   (property)"
+			],
+			[
+				"da",
+				"date  (class)"
+			],
+			[
+				"all",
+				"all_countries	(local, instance)"
+			],
+			[
+				"border-bottom-wid",
+				"border-bottom-width:   (property)"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"msg",
+				"msg_list	(local, instance)"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"select",
+				"select_articles"
+			],
+			[
+				"selec",
+				"select_news"
+			],
+			[
+				"geta",
+				"getattr	(builtin, function)"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"widt",
+				"width:   (property)"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"Subsc",
+				"SubscribedManager	(global, class)"
+			],
+			[
+				"valid",
+				"valid_email	(local, instance)"
+			],
+			[
+				"borde",
+				"border-width"
+			],
+			[
+				"obj",
+				"object_list"
+			],
+			[
+				"help",
+				"help_text"
+			],
+			[
+				"save",
+				"save_subscription"
+			],
+			[
+				"Message",
+				"MessageProxy	(imported, instance)"
+			],
+			[
+				"html",
+				"html_body	(local, instance)"
+			],
+			[
+				"messa",
+				"message_type  (variable)"
+			],
+			[
+				"Messa",
+				"MessageProxy	(imported, instance)"
+			],
+			[
+				"set_",
+				"set_recipient"
+			],
+			[
+				"pre_",
+				"pre_recipient"
+			],
+			[
+				"recipi",
+				"recipients	(attribute, instance)"
+			],
+			[
+				"rec",
+				"recipients	(attribute, instance)"
+			],
+			[
+				"has",
+				"hasattr	(builtin, function)"
+			],
+			[
+				"from",
+				"from_email	(local, instance)"
+			],
+			[
+				"message",
+				"message_type	(local, instance)"
+			],
+			[
+				"re",
+				"recipients	(attribute, instance)"
+			],
+			[
+				"de",
+				"default"
+			],
+			[
+				"reci",
+				"recipient	(attribute, instance)"
+			],
+			[
+				"recip",
+				"recipient_email	(attribute, instance)"
+			],
+			[
+				"recipe",
+				"recipients"
+			],
+			[
+				"subj",
+				"subject"
+			],
+			[
+				"Statisti",
+				"StatisticsModel"
+			],
+			[
+				"one",
+				"one_day"
+			],
+			[
+				"advertiser",
+				"advertiser__id"
+			],
+			[
+				"qury",
+				"queryset"
+			],
+			[
+				"query",
+				"queryset"
+			],
+			[
+				"ma",
+				"manager"
+			],
+			[
+				"Http",
+				"Http404"
+			],
+			[
+				"can",
+				"can_change_tour"
+			],
+			[
+				"event",
+				"eventLoader"
+			],
+			[
+				"g",
+				"getChildren"
+			],
+			[
+				"chan",
+				"changeOfCountry"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "init.rb",
+			"settings":
+			{
+				"buffer_size": 296,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/rmp_reminder.rb",
+			"settings":
+			{
+				"buffer_size": 679,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "db/migrate/001_create_rmp_reminders.rb",
+			"settings":
+			{
+				"buffer_size": 249,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/rmp_hook_listener.rb",
+			"settings":
+			{
+				"buffer_size": 163,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/remind_me_please/_show_reminders.html.erb",
+			"settings":
+			{
+				"buffer_size": 97,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/reminders_controller_controller.rb",
+			"settings":
+			{
+				"buffer_size": 120,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "config/locales/en.yml",
+			"settings":
+			{
+				"buffer_size": 108,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/helpers/reminders_controller_helper.rb",
+			"settings":
+			{
+				"buffer_size": 37,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 102.0,
+		"last_filter": "Package Control: install",
+		"selected_items":
+		[
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			],
+			[
+				"xdebu",
+				"Xdebug: Clear Breakpoints"
+			],
+			[
+				"xdebug",
+				"Xdebug: Restore Layout"
+			],
+			[
+				"x",
+				"Xdebug: Stop Debugging (Launch Browser)"
+			],
+			[
+				"xdebug l",
+				"Xdebug: Stop Debugging (Launch Browser)"
+			],
+			[
+				"stop",
+				"Xdebug: Stop Debugging"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"omni",
+				"OmniMarkupPreviewer: Empty Cache"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"theme",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"insta",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"packa",
+				"Preferences: Browse Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"upg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"up",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"pacin ",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"ct",
+				"CTags: Rebuild Tags"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"rena",
+				"Rope Refactoring: Rename"
+			],
+			[
+				"refa",
+				"Rope Refactoring: Rename"
+			],
+			[
+				"rop",
+				"Rope Refactoring: Rename"
+			],
+			[
+				"rope",
+				"Rope Refactoring: Rename"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"minima",
+				"View: Toggle Minimap"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"pack insta",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Install Package"
+			],
+			[
+				"packa rem ",
+				"Package Control: Remove Package"
+			],
+			[
+				"packa insta",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"SublimeLinter: Extract Annotations"
+			]
+		],
+		"width": 516.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) ",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/app",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/app/controllers",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/app/helpers",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/app/models",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/app/views",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/app/views/remind_me_please",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/config",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/config/locales",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/db",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/db/migrate",
+		"/home/mikhail/Work/projects/redmine/plugins/redmine_remind_me_please/lib"
+	],
+	"file_history":
+	[
+		"/home/mikhail/Work/projects/tyr74/index.php",
+		"/home/mikhail/Work/projects/tyr74/templates/b_search.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/js/javas.js",
+		"/home/mikhail/Work/projects/tyr74/templates/header.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/search.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/modules/search.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/main.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/modules/request.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/cpanel_edittur.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/modules/cpanel.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/right.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/comments.module.php",
+		"/home/mikhail/Work/projects/tyr74/modules/subscribe.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/kurort.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/tur.module.php",
+		"/home/mikhail/Work/projects/tyr74/kernel/config.inc.php",
+		"/home/mikhail/google_regions.json",
+		"/home/mikhail/Work/projects/tyr74/kernel/memcache.inc.php",
+		"/home/mikhail/Work/projects/tyr74/modules/taxi.class.php",
+		"/home/mikhail/Work/projects/tyr74/modules/registr.class.php",
+		"/home/mikhail/Work/projects/tyr74/modules/informer.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/footer.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/cron/sendtur.php",
+		"/home/mikhail/Work/projects/tyr74/kernel/kernel.inc.php",
+		"/home/mikhail/Work/projects/tyr74/templates/request.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/request_mini_form.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/js/request.js",
+		"/home/mikhail/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/mikhail/Work/projects/tyr74/templates/ural.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/ural_city.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/hotel.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/modules/ural.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/ural_top.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/comments.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/ural_city.tpl.html.orig",
+		"/home/mikhail/Work/projects/tyr74/css/style.css",
+		"/home/mikhail/Work/projects/tyr74/modules/tur.class.php",
+		"/home/mikhail/Work/projects/tyr74/cron/curr_fix.php",
+		"/home/mikhail/Work/projects/tyr74/js/tur.js",
+		"/home/mikhail/Work/projects/tyr74/kernel/mail.class.php",
+		"/home/mikhail/Work/projects/tyr74/send_test.php",
+		"/home/mikhail/Work/projects/tyr74/cron/sendtur_edu.php",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/poll.module.php",
+		"/home/mikhail/Work/projects/tyr74/.htaccess",
+		"/home/mikhail/Work/projects/tyr74/templates/taxis.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/registr.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/templates/menu.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/taxi.tpl.html",
+		"/home/mikhail/untitled.html",
+		"/home/mikhail/Загрузки/sublime-text_build-3083_amd64.deb",
+		"/tmp/thg.EPxZPd/tourxx_tourvisor.0.3017/app/users/forms.py",
+		"/home/mikhail/Work/projects/encom74.ru/index.php",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/request.module.php",
+		"/home/mikhail/Work/projects/gnb-land.ru/site/.hgignore",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/requests.module.php",
+		"/home/mikhail/Work/projects/tyr74/templates/cpanel_editorder.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates_c/%%83^832^83274904%%cpanel_orders.tpl.html.php",
+		"/home/mikhail/Work/projects/tyr74/templates/cpanel_orders.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/cpanel_turs.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/order.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/fabfile.py",
+		"/home/mikhail/Work/projects/tyr74/templates/cpanel_requests.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/cpanel_request.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/kernel/phinx.yml",
+		"/home/mikhail/Work/projects/tyr74/modules/stat2.class.php",
+		"/home/mikhail/Work/projects/tyr74/vendor/symfony/console/Symfony/Component/Console/Helper/ProcessHelper.php",
+		"/home/mikhail/Work/projects/tyr74/prural.php",
+		"/home/mikhail/Work/projects/tyr74/kernel/migrations/20150123094052_tour_requests.php",
+		"/home/mikhail/Work/projects/tyr74/js/cpanel_edittur.js",
+		"/home/mikhail/Work/projects/tyr74/phinx.yml",
+		"/home/mikhail/Work/projects/tyr74/templates/.htaccess",
+		"/home/mikhail/Work/projects/tyr74/.hgeol",
+		"/home/mikhail/Work/projects/tyr74/.hgignore",
+		"/home/mikhail/Work/projects/tyr74/kernel/user.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/login_form.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/style.css",
+		"/home/mikhail/Work/projects/tyr74/ie.css",
+		"/home/mikhail/Work/projects/tyr74/vendor/robmorgan/phinx/.scrutinizer.yml",
+		"/home/mikhail/Work/projects/tyr74/modules/stat.class.php",
+		"/home/mikhail/Work/projects/tyr74/sitemaps_taxi.xml",
+		"/home/mikhail/Work/projects/tyr74/migrations/20150123094052_tour_requests.php",
+		"/home/mikhail/Work/projects/tyr74/templates/tur_id.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/cron/cachetur.php",
+		"/home/mikhail/Work/projects/tyr74/templates/yandex_metrika.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/js/site.js",
+		"/home/mikhail/Work/projects/tyr74/sitemap0.xml",
+		"/home/mikhail/Work/projects/tyr74/modules/yandex.class.php",
+		"/home/mikhail/Work/projects/tyr74/admin/templates/tyr74_services.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/tyr74_services.module.php",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/stat2.module.php",
+		"/home/mikhail/Work/projects/tyr74/admin/templates/table.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/templates/stat2.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/turfirm_id.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/turfirm_card2.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/turfirm_card.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/templates/turfirm.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/modules/turfirm.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/tur.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/ckeditor/config_site.js",
+		"/home/mikhail/Work/projects/tyr74/admin/ckeditor/plugins/image_uploader/json_action.php",
+		"/home/mikhail/Work/projects/tyr74/calend/calendar-ru_win_.js",
+		"/home/mikhail/Work/projects/tyr74/templates/turfirms.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/js/tyr74_setup.js",
+		"/tmp/tyr74_tur.txt",
+		"/home/mikhail/Work/projects/tyr74/modules/statistics.class.php",
+		"/home/mikhail/Work/projects/tyr74/yandex/index.php",
+		"/home/mikhail/Work/projects/tyr74/admin/ckeditor/config.js",
+		"/home/mikhail/Work/projects/tyr74/yandex_widget.php",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/mess.module.php",
+		"/home/mikhail/Work/projects/tyr74/statur/index.php",
+		"/home/mikhail/Work/projects/tyr74/fill_yandex_weather_ids.php",
+		"/home/mikhail/Work/projects/tyr74/cron/spider.php",
+		"/home/mikhail/Work/projects/tyr74/cron/archtur.php",
+		"/home/mikhail/Work/projects/tyr74/cron/rating.php",
+		"/home/mikhail/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/mikhail/Work/projects/tyr74/bad.xml",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/statistics.module.php",
+		"/home/mikhail/Work/projects/tyr74/admin/ckeditor/lang/_translationstatus.txt",
+		"/home/mikhail/Work/projects/tyr74/changes.txt",
+		"/home/mikhail/Work/projects/tyr74/templates/index.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/turfirm.module.php",
+		"/home/mikhail/Work/projects/tyr74/modules/kurort.class.php",
+		"/home/mikhail/Work/projects/tyr74/admin/modules/ural.module.php",
+		"/home/mikhail/Work/projects/tyr74/modules/urals.class.php",
+		"/home/mikhail/Work/projects/tyr74/templates/urals.tpl.html",
+		"/home/mikhail/Work/projects/tyr74/kernel/form.class.php",
+		"/home/mikhail/Work/projects/tyr74/forsearch.php",
+		"/home/mikhail/Work/projects/tyr74/ya_delete/install.php"
+	],
+	"find":
+	{
+		"height": 37.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"/home/mikhail/Work/projects/tyr74/",
+			"/home/mikhail/Work/projects/tyr74/cron",
+			"/home/mikhail/Work/projects/tyr74",
+			"/home/mikhail/Work/projects/tyr74/",
+			"/home/mikhail/Work/projects/tyr74/templates",
+			"/home/mikhail/Work/projects/tyr74/",
+			"/home/mikhail/Work/projects/tyr74/templates",
+			"/home/mikhail/Work/projects/tyr74",
+			"/home/mikhail/Work/projects/tyr74/cron",
+			"/home/mikhail/Work/projects/tyr74",
+			"/home/mikhail/Work/projects/spos",
+			"/home/mikhail/Work/projects/nasushi.ru",
+			"/home/mikhail/Work/projects/ray174.ru/site",
+			"/home/mikhail/Work/projects/uugm.ru",
+			"/home/mikhail/Work/projects/uptkenergo.ru",
+			"",
+			"/home/mikhail/.virtualenvs/tourxx/src/django-filebrowser/filebrowser",
+			"/home/mikhail/Work/projects/tourxx/",
+			"/home/mikhail/Work/projects/tourxx/app/newsletter",
+			"/home/mikhail/Work/projects/tourxx",
+			"/home/mikhail/.virtualenvs/tourxx/",
+			"/home/mikhail/.virtualenvs/tourxx/src/emencia.django.newsletter",
+			"/home/mikhail/Work/projects/tourxx/",
+			"/home/mikhail/Work/projects/tourxx/app/mailer/migrations",
+			"/home/mikhail/Work/projects/tourxx/",
+			"/home/mikhail/Work/projects/tourxx/app/mailer/migrations",
+			"/home/mikhail/Work/projects/tourxx/",
+			"/home/mikhail/Work/projects/tourxx/app/users",
+			"/home/mikhail/Work/projects/tourxx",
+			"/home/mikhail/Work/projects/tourxx/",
+			"/home/mikhail/Work/projects/tourxx/static/c",
+			"/home/mikhail/Work/projects/tourxx",
+			"/home/mikhail/Work/projects/tourxx/templates",
+			"/home/mikhail/Work/projects/tourxx",
+			"/home/mikhail/Work/projects/tourxx/static/c",
+			"/home/mikhail/Work/projects/tourxx",
+			"/home/mikhail/Work/projects/tourxx/app",
+			"/home/mikhail/Work/projects/tourxx"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"javas.js",
+			"changeSearchType",
+			"type",
+			"ord",
+			"site_url",
+			"Новый комментарий",
+			"country4main",
+			"sape",
+			"На данный момент туров нет",
+			"Количество подписчиков",
+			"get_departures",
+			"';\n",
+			"get_departures",
+			"departure",
+			"<!-- sape -->",
+			"replace_in_page",
+			"sape",
+			"create_form",
+			"предлож",
+			"mode",
+			"addtur(",
+			"automoderate",
+			"fin",
+			"$this->template->assign('fin",
+			"$this->template->assign(\"fin",
+			"$this->template->assign",
+			"\"fin\"",
+			"'fin'",
+			"fin",
+			"fin=",
+			"getUrlByIp",
+			"host:",
+			"utm_sou",
+			"request.js",
+			"request",
+			"e-mail",
+			"is_email",
+			"ural_city",
+			"Последние добавленные туры",
+			"templ",
+			"comments.tpl",
+			"Есть что сказать? Оставьте свой комментарий!",
+			"hot",
+			"hots",
+			"name",
+			"module",
+			"yaCounter",
+			"93",
+			"footer",
+			"redis",
+			"z-index",
+			"sendmsg_file_html",
+			"class=\"menu\"",
+			"Цирк-ЖД Вокзал",
+			"getRow",
+			"date",
+			"editorder",
+			".",
+			".htac",
+			"get_orders_count",
+			"count_orders_x",
+			"Все туры по Уралу",
+			"manager",
+			"yacounter",
+			"/p",
+			"class=\"l-p\"",
+			"заполнение формы предварительного",
+			"Дата добавления (yyyy",
+			"echo",
+			"var_du",
+			"last",
+			"getRow",
+			"SELECT",
+			"$table",
+			"tur",
+			"getRow",
+			"get",
+			"robot@tyr74.ru",
+			"email",
+			"sendmsg_text",
+			"assign('city'",
+			"assign(\"city\"",
+			"template->assign(\"city\"",
+			"city",
+			"Поиск по имени",
+			"city",
+			"SELECT",
+			"set_time_limit",
+			"echo",
+			"p",
+			"$topfi",
+			"getOne",
+			"INSERT",
+			"//\n",
+			"robots",
+			"курорт",
+			"login_form.tpl",
+			"пользователя",
+			"user",
+			"set_time_limit",
+			"title",
+			"newyear",
+			"new",
+			"year",
+			"title",
+			"city",
+			"view_tree",
+			"hide_date",
+			"turs",
+			"keywords",
+			"цены",
+			"цены, фото",
+			"title",
+			"keyword",
+			"form_data",
+			"validate_bron",
+			"myValidator = validate_bron;",
+			"attrib",
+			"$data",
+			"form_data",
+			"checkForm",
+			"submi",
+			"#map",
+			"nedoma",
+			"field_3",
+			"checkbox",
+			"Сортировать",
+			"сортировать"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"\"",
+			"$this->db",
+			"tomorrow",
+			"object",
+			"object.advertiser.",
+			"object.advertiser",
+			" ",
+			"border: 3px double #BEC8D3;border-spacing:2px 2px;",
+			"<td style=\"border: 3px double #BEC8D3;box-shadow: 1px 2px 40px #FFFFFF;padding: 2px;\">",
+			"",
+			"td",
+			"/static/admin/",
+			"dd>",
+			"created",
+			"Subscription",
+			"'stat.html'",
+			"pre_reply_to",
+			"mailer"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 5,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "init.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 296,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								295,
+								295
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/models/rmp_reminder.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 679,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								674,
+								674
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "db/migrate/001_create_rmp_reminders.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 249,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								248,
+								248
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/rmp_hook_listener.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 163,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								157,
+								157
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/remind_me_please/_show_reminders.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 97,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								90,
+								90
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Rails/HTML (Rails).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/controllers/reminders_controller_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 120,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								120,
+								120
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "config/locales/en.yml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 108,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								106,
+								106
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/helpers/reminders_controller_helper.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 37,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								32,
+								32
+							]
+						],
+						"settings":
+						{
+							"colorcode": true,
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.rope_python_documentation":
+	{
+		"height": 112.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "redmine_remind_me_please.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"index.p",
+				"tyr74/index.php"
+			],
+			[
+				"b_search",
+				"tyr74/templates/b_search.tpl.html"
+			],
+			[
+				"search.tp",
+				"tyr74/templates/search.tpl.html"
+			],
+			[
+				"tur.modu",
+				"tyr74/admin/modules/tur.module.php"
+			],
+			[
+				"confi",
+				"tyr74/kernel/config.inc.php"
+			],
+			[
+				"search",
+				"tyr74/modules/search.class.php"
+			],
+			[
+				"subscribe.cl",
+				"tyr74/modules/subscribe.class.php"
+			],
+			[
+				"config",
+				"tyr74/kernel/config.inc.php"
+			],
+			[
+				"tur.mod",
+				"tyr74/admin/modules/tur.module.php"
+			],
+			[
+				"cpanel_edittur",
+				"tyr74/templates/cpanel_edittur.tpl.html"
+			],
+			[
+				"cpanel.c",
+				"tyr74/modules/cpanel.class.php"
+			],
+			[
+				"requ",
+				"tyr74/modules/request.class.php"
+			],
+			[
+				"taxi",
+				"tyr74/modules/taxi.class.php"
+			],
+			[
+				"registr.c",
+				"tyr74/modules/registr.class.php"
+			],
+			[
+				"tur.mo",
+				"tyr74/admin/modules/tur.module.php"
+			],
+			[
+				"cpanel_edittu",
+				"tyr74/templates/cpanel_edittur.tpl.html"
+			],
+			[
+				"informer",
+				"tyr74/modules/informer.class.php"
+			],
+			[
+				"cpanel.",
+				"tyr74/modules/cpanel.class.php"
+			],
+			[
+				"header",
+				"tyr74/templates/header.tpl.html"
+			],
+			[
+				"conf",
+				"tyr74/kernel/config.inc.php"
+			],
+			[
+				"regis",
+				"tyr74/modules/registr.class.php"
+			],
+			[
+				"sendtu",
+				"tyr74/cron/sendtur.php"
+			],
+			[
+				"foo",
+				"tyr74/templates/footer.tpl.html"
+			],
+			[
+				"request_mi",
+				"tyr74/templates/request_mini_form.tpl.html"
+			],
+			[
+				"request",
+				"tyr74/js/request.js"
+			],
+			[
+				"request.t",
+				"tyr74/templates/request.tpl.html"
+			],
+			[
+				"reques",
+				"tyr74/modules/request.class.php"
+			],
+			[
+				"ural_city",
+				"tyr74/templates/ural_city.tpl.html"
+			],
+			[
+				"ural_top",
+				"tyr74/templates/ural_top.tpl.html"
+			],
+			[
+				"ural.clas",
+				"tyr74/modules/ural.class.php"
+			],
+			[
+				"ural.tp",
+				"tyr74/templates/ural.tpl.html"
+			],
+			[
+				"tur.",
+				"tyr74/modules/tur.class.php"
+			],
+			[
+				"index.php",
+				"tyr74/index.php"
+			],
+			[
+				".js",
+				"tyr74/js/tur.js"
+			],
+			[
+				"mail",
+				"tyr74/kernel/mail.class.php"
+			],
+			[
+				"cpane",
+				"tyr74/modules/cpanel.class.php"
+			],
+			[
+				"footer",
+				"tyr74/templates/footer.tpl.html"
+			],
+			[
+				"style",
+				"tyr74/css/style.css"
+			],
+			[
+				"menu",
+				"tyr74/admin/templates/menu.tpl.html"
+			],
+			[
+				"heaer",
+				"tyr74/templates/header.tpl.html"
+			],
+			[
+				"registr",
+				"tyr74/templates/registr.tpl.html"
+			],
+			[
+				"regist",
+				"tyr74/modules/registr.class.php"
+			],
+			[
+				"cpanel_ord",
+				"tyr74/templates/cpanel_editorder.tpl.html"
+			],
+			[
+				"order",
+				"tyr74/templates/order.tpl.html"
+			],
+			[
+				"cpan",
+				"tyr74/modules/cpanel.class.php"
+			],
+			[
+				"phin",
+				"tyr74/kernel/phinx.yml"
+			],
+			[
+				"fab",
+				"tyr74/fabfile.py"
+			],
+			[
+				"cpanel_req",
+				"tyr74/templates/cpanel_request.tpl.html"
+			],
+			[
+				"cpanel_edito",
+				"tyr74/templates/cpanel_editorder.tpl.html"
+			],
+			[
+				"cpanel_ot",
+				"tyr74/templates/cpanel_orders.tpl.html"
+			],
+			[
+				".hta",
+				"tyr74/.htaccess"
+			],
+			[
+				"request.tp",
+				"tyr74/templates/request.tpl.html"
+			],
+			[
+				".css",
+				"tyr74/css/style.css"
+			],
+			[
+				"stat2",
+				"tyr74/modules/stat2.class.php"
+			],
+			[
+				"cpanel_tur",
+				"tyr74/templates/cpanel_turs.tpl.html"
+			],
+			[
+				"hea",
+				"tyr74/templates/header.tpl.html"
+			],
+			[
+				"foot",
+				"tyr74/templates/footer.tpl.html"
+			],
+			[
+				"tur_id",
+				"tyr74/templates/tur_id.tpl.html"
+			],
+			[
+				"site.j",
+				"tyr74/js/site.js"
+			],
+			[
+				"request.j",
+				"tyr74/js/request.js"
+			],
+			[
+				"turfirm_",
+				"tyr74/templates/turfirm_card2.tpl.html"
+			],
+			[
+				"turfirm_ca",
+				"tyr74/templates/turfirm_card.tpl.html"
+			],
+			[
+				"tur.tp",
+				"tyr74/templates/tur.tpl.html"
+			],
+			[
+				"hear",
+				"tyr74/templates/header.tpl.html"
+			],
+			[
+				"java",
+				"tyr74/js/javas.js"
+			],
+			[
+				"turfirm_id",
+				"tyr74/templates/turfirm_id.tpl.html"
+			],
+			[
+				"turfirms",
+				"tyr74/templates/turfirms.tpl.html"
+			],
+			[
+				"turfirm",
+				"tyr74/templates/turfirm.tpl.html"
+			],
+			[
+				"tur",
+				"tyr74/modules/tur.class.php"
+			],
+			[
+				"yandex.",
+				"tyr74/modules/yandex.class.php"
+			],
+			[
+				"yande.c",
+				"tyr74/modules/yandex.class.php"
+			],
+			[
+				"yandex.c",
+				"tyr74/modules/yandex.class.php"
+			],
+			[
+				"cpanel.cl",
+				"tyr74/modules/cpanel.class.php"
+			],
+			[
+				"turfir",
+				"tyr74/modules/turfirm.class.php"
+			],
+			[
+				"request.mo",
+				"tyr74/admin/modules/request.module.php"
+			],
+			[
+				"b_sea",
+				"tyr74/templates/b_search.tpl.html"
+			],
+			[
+				"login_fo",
+				"tyr74/templates/login_form.tpl.html"
+			],
+			[
+				"inde",
+				"tyr74/templates/index.tpl.html"
+			],
+			[
+				"turfirm.cl",
+				"tyr74/modules/turfirm.class.php"
+			],
+			[
+				"request_m",
+				"tyr74/templates/request_mini_form.tpl.html"
+			],
+			[
+				"ku",
+				"tyr74/templates/kurort.tpl.html"
+			],
+			[
+				"kuror",
+				"tyr74/modules/kurort.class.php"
+			],
+			[
+				"ural",
+				"tyr74/templates/ural.tpl.html"
+			],
+			[
+				"ural.cl",
+				"tyr74/modules/ural.class.php"
+			],
+			[
+				"kurort.tp",
+				"tyr74/templates/kurort.tpl.html"
+			],
+			[
+				"urals",
+				"tyr74/modules/urals.class.php"
+			],
+			[
+				"form.",
+				"tyr74/kernel/form.class.php"
+			],
+			[
+				"tur.cla",
+				"tyr74/modules/tur.class.php"
+			],
+			[
+				"requ_mi",
+				"tyr74/templates/request_mini_form.tpl.html"
+			],
+			[
+				"head",
+				"tyr74/templates/header.tpl.html"
+			],
+			[
+				"modules.",
+				"tyr74/css/modules.css"
+			],
+			[
+				"fabfi",
+				"tyr74/fabfile.py"
+			],
+			[
+				"search.cl",
+				"tyr74/modules/search.class.php"
+			],
+			[
+				"p_sear",
+				"tyr74/templates/b_search.tpl.html"
+			],
+			[
+				"style.c",
+				"tyr74/admin/style.css"
+			],
+			[
+				"style.",
+				"tyr74/css/style.css"
+			],
+			[
+				"cpanel_ural",
+				"tyr74/templates/cpanel_urals.tpl.html"
+			],
+			[
+				"cpanel",
+				"tyr74/templates/cpanel_turs.tpl.html"
+			],
+			[
+				"urals.mo",
+				"tyr74/admin/modules/urals.module.php"
+			],
+			[
+				"urals.c",
+				"tyr74/modules/urals.class.php"
+			],
+			[
+				"tur.c",
+				"tyr74/modules/tur.class.php"
+			],
+			[
+				"main.t",
+				"tyr74/templates/main.tpl.html"
+			],
+			[
+				"captc",
+				"tyr74/templates/captcha.tpl.html"
+			],
+			[
+				"reque",
+				"tyr74/modules/request.class.php"
+			],
+			[
+				"index",
+				"tyr74/templates/index.tpl.html"
+			],
+			[
+				"search.c",
+				"tyr74/modules/search.class.php"
+			],
+			[
+				"captch",
+				"tyr74/templates/captcha.tpl.html"
+			],
+			[
+				"reques.cl",
+				"tyr74/modules/request.class.php"
+			],
+			[
+				"cpanel_tu",
+				"tyr74/templates/cpanel_turs.tpl.html"
+			],
+			[
+				"edi",
+				"tyr74/js/edittur.js"
+			],
+			[
+				"rder",
+				"tyr74/templates/order.tpl.html"
+			],
+			[
+				"exchan",
+				"tyr74/templates/exchange_rate.tpl.html"
+			],
+			[
+				"login_form",
+				"tyr74/templates/login_form.tpl.html"
+			],
+			[
+				"right",
+				"tyr74/templates/right.tpl.html"
+			],
+			[
+				"css",
+				"tyr74/admin/style.css"
+			],
+			[
+				"mail.",
+				"tyr74/kernel/mail.class.php"
+			],
+			[
+				"news",
+				"tyr74/admin/modules/news.module.php"
+			],
+			[
+				"user",
+				"tyr74/kernel/user.class.php"
+			],
+			[
+				"admin_menu",
+				"tyr74/kernel/admin_menu.class.php"
+			],
+			[
+				"curr",
+				"tyr74/cron/curr_fix.php"
+			],
+			[
+				"cachet",
+				"tyr74/cron/cachetur.php"
+			],
+			[
+				"compa",
+				"tyr74/templates/comparison.tpl.html"
+			],
+			[
+				"cpaneltu",
+				"tyr74/templates/cpanel_edittur.tpl.html"
+			],
+			[
+				"edit",
+				"tyr74/js/edittur.js"
+			],
+			[
+				"tur.j",
+				"tyr74/js/tur.js"
+			],
+			[
+				"fabi",
+				"tyr74/fabfile.py"
+			],
+			[
+				"weather",
+				"tyr74/cron/weather.php"
+			],
+			[
+				"cache",
+				"tyr74/cron/cachetur.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"15":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"16":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"17":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 291.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
