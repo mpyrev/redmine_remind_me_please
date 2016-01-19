@@ -1,0 +1,31 @@
+en:
+  helpers:
+    submit:
+      rmp_reminder:
+        create: "Создать напоминание"
+        update: "Обновить напоминание"
+
+  error_invalid_interval_type: "Неверный тип интервала"
+  error_date_should_be_future: "не может быть в прошлом"
+
+  field_reminders_plural: "Напоминания"
+  field_periodic: "Периодическое"
+  field_interval_value: "Размер интервала"
+  field_interval_type: "Тип интервала"
+  field_base_date: "Дата первого уведомления"
+
+  reminder_created: "Напоминание создано"
+  reminder_saved: "Напоминание сохранено"
+  reminder_repeat_every: "Повтор каждые"
+  reminder_not_periodic: "Разовое напоминание"
+
+  label_add_reminder: "Добавить напоминание"
+  label_next_scheduled_run: "Следующий плановый запуск"
+
+  permission_view_issue_reminders: "Просмотр напоминаний"
+  permission_add_issue_reminder: "Добавление напоминаний"
+  permission_edit_issue_reminder: "Изменение напоминаний"
+  permission_delete_issue_reminder: "Удаление напоминаний"
+
+  text_issue_reminder: "Напоминаю вам об этой задаче."
+  text_rmp_reminders_destroy_confirmation: "Вы уверены, что хотите удалить это напоминание?"

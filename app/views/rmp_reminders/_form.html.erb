@@ -3,8 +3,8 @@
       <%= error_messages_for 'reminder' %>
       <%= f.hidden_field :id %>
       <p>
-        <%= f.text_field :start_date, :required => true %>
-        <%= calendar_for('rmp_reminder_start_date') %>
+        <%= f.text_field :base_date, :required => true %>
+        <%= calendar_for('rmp_reminder_base_date') %>
       </p>
       <p><%= f.check_box :periodic %></p>
       <p><%= f.number_field :interval_value, :size => 4, :maxlength => 4 %></p>

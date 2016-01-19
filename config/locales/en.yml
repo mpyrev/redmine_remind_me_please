@@ -1,14 +1,31 @@
 en:
+  helpers:
+    submit:
+      rmp_reminder:
+        create: "Create reminder"
+        update: "Update reminder"
+
+  error_invalid_interval_type: "Invalid interval type"
+  error_date_should_be_future: "cannot be lower than or equal today"
+
   field_reminders_plural: "Reminders"
   field_periodic: "Periodic"
   field_interval_value: "Interval value"
   field_interval_type: "Interval type"
+  field_base_date: "Date of first notification"
 
   reminder_created: "Reminder created"
+  reminder_saved: "Reminder saved"
+  reminder_repeat_every: "Repeat every"
+  reminder_not_periodic: "One time collection"
 
   label_add_reminder: "Add reminder"
+  label_next_scheduled_run: "Next scheduled run"
 
   permission_view_issue_reminders: "View issues reminders"
   permission_add_issue_reminder: "Add issue reminder"
   permission_edit_issue_reminder: "Edit issue reminder"
   permission_delete_issue_reminder: "Delete issue reminder"
+
+  text_issue_reminder: "Remind you about this issue."
+  text_rmp_reminders_destroy_confirmation: "Are you sure you want to delete this reminder?"

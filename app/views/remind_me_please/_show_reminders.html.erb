@@ -11,17 +11,19 @@
           <tr>
             <% if User.current.allowed_to?(:view_issue_reminders, project) %>
               <td class="subject">
-                <%= link_to(r.recurrence_to_s, edit_recurring_task_path(:id => r.id)) %>
+                <%= link_to(r.to_pretty_s, edit_rmp_reminder_path(:id => r.id)) %>
               </td>
               <td>
-                <%= "#{l(:label_next_scheduled_run)}: #{rt.next_scheduled_recurrence}" %>
+                <%= "#{l(:label_next_scheduled_run)}: #{format_date(r.notification_date)}" %>
               </td>
               <td class="buttons">
-                <%= link_to(l(:button_edit), edit_recurring_task_path(:id => rt.id, :project_id => project.id), :class => 'icon icon-edit') %>
-                <%= link_to(l(:button_delete), destroy_recurring_task_path(:id => rt.id, :project_id => project.id), :method => :delete, :class => 'icon icon-del') %>
+                <%= link_to(l(:button_edit), edit_rmp_reminder_path(:id => r.id), :class => 'icon icon-edit') %>
+                <%= link_to(l(:button_delete), destroy_rmp_reminder_path(:id => r.id), :class => 'icon icon-del',
+                            'data-confirm' => l(:text_rmp_reminders_destroy_confirmation),
+                            'data-method' => 'delete', :rel => 'nofollow') %>
               </td>
             <% else %>
-                <td colspan=3><%= rt.recurrence_to_s %></td>
+                <td colspan=3><%= r.to_pretty_s %></td>
             <% end %>
           </tr>
         <% end %>
