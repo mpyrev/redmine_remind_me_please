@@ -1,4 +1,4 @@
-en:
+ru:
   helpers:
     submit:
       rmp_reminder:
@@ -29,3 +29,8 @@ en:
 
   text_issue_reminder: "Напоминаю вам об этой задаче."
   text_rmp_reminders_destroy_confirmation: "Вы уверены, что хотите удалить это напоминание?"
+
+  interval_day: "день"
+  interval_week: "неделя"
+  interval_month: "месяц"
+  interval_year: "год"

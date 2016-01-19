@@ -29,3 +29,8 @@ en:
 
   text_issue_reminder: "Remind you about this issue."
   text_rmp_reminders_destroy_confirmation: "Are you sure you want to delete this reminder?"
+
+  interval_day: "day"
+  interval_week: "week"
+  interval_month: "month"
+  interval_year: "year"

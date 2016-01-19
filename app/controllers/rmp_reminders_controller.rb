@@ -72,7 +72,5 @@ private
 
   def find_project
     @project = @issue.project
-    puts 'asdf'
   end
 end
-
