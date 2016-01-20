@@ -20,7 +20,7 @@ class RmpReminder < ActiveRecord::Base
             :presence => true,
             :date => true
 
-  validate :base_date_cannot_be_in_the_past
+  validate :base_date_cannot_be_in_the_past, :on => :create
 
   def base_date_cannot_be_in_the_past
     errors.add(:base_date, l(:error_date_should_be_future)) if !base_date.blank? and base_date <= Date.today
