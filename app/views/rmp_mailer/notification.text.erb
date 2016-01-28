@@ -1,0 +1,5 @@
+<%= I18n.t(:mail_body_notification) %>
+
+<%= I18n.t(:mail_body_issue_url) %>: <%= url_for(:controller => 'issues', :action => 'show', :id => @issue.id, :only_path => false) %>
+
+<%= I18n.t(:mail_body_reminder_edit_url) %>: <%= url_for(:controller => 'rmp_reminders', :action => 'edit', :id => @reminder.id, :only_path => false) %>

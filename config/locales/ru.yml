@@ -13,6 +13,8 @@ ru:
   field_interval_value: "Размер интервала"
   field_interval_type: "Тип интервала"
   field_base_date: "Дата первого уведомления"
+  field_recipient_type: "Кого уведомлять"
+  field_recipient_ids: "Получатели"
 
   reminder_created: "Напоминание создано"
   reminder_saved: "Напоминание сохранено"
@@ -21,6 +23,9 @@ ru:
 
   label_add_reminder: "Добавить напоминание"
   label_next_scheduled_run: "Следующий плановый запуск"
+  label_assignee: "Исполнитель"
+  label_author_and_assignee: "Автор и исполнитель"
+  label_custom: "Указанные пользователи"
 
   permission_view_issue_reminders: "Просмотр напоминаний"
   permission_add_issue_reminder: "Добавление напоминаний"
@@ -34,3 +39,7 @@ ru:
   interval_week: "неделя"
   interval_month: "месяц"
   interval_year: "год"
+
+  mail_body_notification: "Это сообщение напоминает вам о задаче."
+  mail_body_issue_url: "Задача"
+  mail_body_reminder_edit_url: "Редактировать напоминание (при наличии прав)"

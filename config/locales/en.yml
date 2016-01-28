@@ -13,6 +13,8 @@ en:
   field_interval_value: "Interval value"
   field_interval_type: "Interval type"
   field_base_date: "Date of first notification"
+  field_recipient_type: "Recipient type"
+  field_recipient_ids: "Recipients"
 
   reminder_created: "Reminder created"
   reminder_saved: "Reminder saved"
@@ -21,6 +23,9 @@ en:
 
   label_add_reminder: "Add reminder"
   label_next_scheduled_run: "Next scheduled run"
+  label_assignee: "Assignee"
+  label_author_and_assignee: "Author and assignee"
+  label_custom: "Custom"
 
   permission_view_issue_reminders: "View issues reminders"
   permission_add_issue_reminder: "Add issue reminder"
@@ -34,3 +39,7 @@ en:
   interval_week: "week"
   interval_month: "month"
   interval_year: "year"
+
+  mail_body_notification: "This message is reminder about issue."
+  mail_body_issue_url: "Issue"
+  mail_body_reminder_edit_url: "Edit reminder (if have permissions)"

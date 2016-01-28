@@ -2,6 +2,7 @@ class RmpRemindersController < ApplicationController
   unloadable
 
   before_filter :set_interval_types
+  before_filter :set_recipient_types
   before_filter :find_reminder, :except => [:new, :create]
   before_filter :find_issue
   before_filter :find_project, :authorize
@@ -14,6 +15,7 @@ class RmpRemindersController < ApplicationController
   def create
     @reminder = RmpReminder.new(params[:rmp_reminder])
     @reminder.issue = @issue
+    @reminder.owner = User.current
     @reminder.notification_date = @reminder.base_date
     if @reminder.save
       flash[:notice] = l(:reminder_created)
@@ -68,6 +70,10 @@ private
 
   def set_interval_types
     @interval_types = RmpReminder::INTERVAL_TYPES_LOCALIZED.collect{|k,v| [v, k]}
+  end
+
+  def set_recipient_types
+    @recipient_types = RmpReminder::RECIPIENT_TYPES_LOCALIZED.collect{|k,v| [v, k]}
   end
 
   def find_project

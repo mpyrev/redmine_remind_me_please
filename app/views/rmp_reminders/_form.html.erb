@@ -1,4 +1,4 @@
-<%= labelled_form_for reminder, :url => { :action => next_step, :id=>reminder } do |f| %>
+<%= labelled_form_for reminder, :url => { :action => next_step, :id => reminder } do |f| %>
     <div class="box tabular">
       <%= error_messages_for 'reminder' %>
       <%= f.hidden_field :id %>
@@ -9,6 +9,8 @@
       <p><%= f.check_box :periodic %></p>
       <p><%= f.number_field :interval_value, :size => 4, :maxlength => 4 %></p>
       <p><%= f.select :interval_type, @interval_types, :include_blank => true %></p>
+      <p><%= f.select :recipient_type, @recipient_types, :required => true %></p>
+      <p><%= f.select :recipient_ids, reminder.issue.project.users.sort.collect {|x| [x.name, x.id]}, {}, :multiple => true %></p>
     </div>
     <%= f.submit %>
     <%= link_to l(:button_cancel), :back %>
