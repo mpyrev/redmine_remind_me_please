@@ -121,7 +121,8 @@ class RmpReminder < ActiveRecord::Base
         # Don't forget issue can be assigned to a group
         issue.assigned_to.is_a?(Group) ? issue.assigned_to.users : [issue.assigned_to]
       when RECIPIENT_AUTHOR_ASSIGNEE
-        [issue.author] + (issue.assigned_to.is_a?(Group) ? issue.assigned_to.users : [issue.assigned_to])
+        assignee = issue.assigned_to.is_a?(Group) ? issue.assigned_to.users : [issue.assigned_to]
+        ([issue.author] + assignee).uniq
       when RECIPIENT_CUSTOM
         recipients
       else
