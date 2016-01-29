@@ -1,15 +1,9 @@
-class RmpMailer < ActionMailer::Base
+class RmpMailer < Mailer
   include Redmine::I18n
-
-  def self.default_url_options
-    { :host => Setting.host_name, :protocol => Setting.protocol }
-  end
 
   def self.deliver_notification(reminder)
     reminder.get_recipients.each do |u|
-      m = notification(reminder, u)
-      puts m.body
-      m.deliver
+      notification(reminder, u).deliver
     end
   end
 
