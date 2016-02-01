@@ -10,8 +10,12 @@
       <p><%= f.number_field :interval_value, :size => 4, :maxlength => 4 %></p>
       <p><%= f.select :interval_type, @interval_types, :include_blank => true %></p>
       <p><%= f.select :recipient_type, @recipient_types, :required => true %></p>
-      <p><%= f.select :recipient_ids, reminder.issue.project.users.sort.collect {|x| [x.name, x.id]}, {}, :multiple => true %></p>
+      <p style="overflow: visible"><%= f.select :recipient_ids, reminder.issue.project.users.sort.collect {|x| [x.name, x.id]}, {}, :multiple => true %></p>
     </div>
     <%= f.submit %>
     <%= link_to l(:button_cancel), :back %>
+<% end %>
+
+<%= javascript_tag do %>
+  $('select#rmp_reminder_recipient_ids').multipleSelect();
 <% end %>

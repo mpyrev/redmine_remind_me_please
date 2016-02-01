@@ -9,6 +9,7 @@ Redmine::Plugin.register :redmine_remind_me_please do
   url 'http://example.com/path/to/plugin'
   author_url 'https://github.com/mpyrev'
   require_dependency 'rmp_hook_listener'
+  require_dependency 'rmp_layout_hook_listener'
 
   project_module :issue_tracking do
     permission :view_issue_reminders, {:rmp_reminders => [:index, :show]}, :read => true
