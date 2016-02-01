@@ -17,5 +17,7 @@
 <% end %>
 
 <%= javascript_tag do %>
-  $('select#rmp_reminder_recipient_ids').multipleSelect();
+  $('select#rmp_reminder_recipient_ids').multipleSelect({
+      width: 500
+  });
 <% end %>
